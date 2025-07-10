@@ -1,0 +1,5 @@
+# ignore models
+*.pt
+
+# ignore dataset
+Sam-Barrett-?/

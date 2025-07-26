@@ -4,3 +4,6 @@
 # ignore dataset
 Sam-Barrett-?/
 Sam-Barrett-??/
+
+# ignore environment variables
+.env

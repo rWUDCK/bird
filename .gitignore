@@ -1,5 +1,8 @@
-# ignore models
+# ignore models and videos
 *.pt
+*.mp4
+runs/detect/predict/
+runs/detect/predict?/
 
 # ignore dataset
 Sam-Barrett-?/

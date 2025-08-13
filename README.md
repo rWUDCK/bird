@@ -1,8 +1,12 @@
 # bird
-Bird Feeder Project
-
----
-Runs
-1: YOLO12 100 epochs
-2: DETR 6 epochs
-3: YOLO12 100 epochs with data augmentation
+Bird Feeder Project  
+  
+---  
+Classes  
+0: bt  
+1: feeder  
+2: gt  
+3: j
+4: lt
+5: r  
+6: squirrel  

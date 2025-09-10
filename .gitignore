@@ -16,3 +16,6 @@ archive/
 # ignore dataset
 Sam-Barrett-?/
 Sam-Barrett-??/
+
+# ignore environment files
+requirements.txt

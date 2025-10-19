@@ -11,7 +11,7 @@ runs/detect/track/
 runs/detect/track?/
 
 # ignore archived results
-archive/
+archive/results/
 
 # ignore dataset
 Sam-Barrett-?/
